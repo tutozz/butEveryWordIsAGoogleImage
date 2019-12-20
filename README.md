@@ -7,7 +7,7 @@ There's nothing more simple ! ✌️
 pip install -r requirements.txt
 ```
 Here's a demo
-[![installation demo](https://asciinema.org/a/289435.svg)](https://asciinema.org/a/289435)
+[![installation demo](https://asciinema.org/a/289475.svg)](https://asciinema.org/a/289475)
 
 # Usage
 Even a kid can use it ! 
