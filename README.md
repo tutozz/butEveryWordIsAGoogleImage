@@ -1,21 +1,19 @@
 # butEveryWordIsAGoogleImage
 This is just a script that automatically generate a video from a youtube music link that for each word said will download an image that correspond and put it in the video at the correct time.
 
-# basic stuff
-Hey, it's very late so I don't have time to write my beautiful README.md so i just put you 2 step to use it but further i'll post a complete tutorial with examples, images library and demos !
-Hope you'll enjoy !
-
 # Installation
-for installation you just need to do a pip requirements
+There's nothing more simple ! ✌️
 ```
 pip install -r requirements.txt
 ```
+Here's a demo
+[![installation demo](https://asciinema.org/a/289435.svg)](https://asciinema.org/a/289435)
 
 # Usage
-for usage, it's very simple just
+Even a kid can use it ! 
+The script will at each launch guide you through several questions to create your video
 ```
 python buteverywordisagoogleimage.py
 ```
-and the script will guide you to create your video
-
-Bye and good night !
+As for the installation here's a demo (may depends)
+[![asciicast](https://asciinema.org/a/289474.svg)](https://asciinema.org/a/289474)
