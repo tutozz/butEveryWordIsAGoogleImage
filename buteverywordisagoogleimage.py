@@ -121,6 +121,8 @@ def download_image(to_download):  # function for downloading the image with 'to_
                     print("   ERROR, delete '" + image_filename + "'")
                     os.remove("imgs/" + image_filename)
                     break
+    else:
+        sys.stdout = sys.__stdout__  # restore output to console
 
 
 # begin
@@ -151,17 +153,24 @@ if title_song == "":  # if no input put 'video_title' directly
     else:  # if by any chances cannot retrive video title
         title_song = "Unknown - Unknown"
 
-fps = int(input("Video's fps [30]: "))  # ask for framerate
+fps = input("Video's fps [30]: ")  # ask for framerate
 if fps == "":  # default 30fps
     fps = 30
+else:
+    fps = int(fps)
 
 print("Resolution: ")
-width = input("   width[1280] = ")  # ask for width
-if width == "":  # default 30fps
+width = input("   width [1280] = ")  # ask for width
+if width == "":
     width = 1280
-height = input("   height[720] = ")  # ask for height
-if height == "":  # default 30fps
+else:
+    width = int(width)
+height = input("   height [720] = ")  # ask for height
+if height == "":
     height = 720
+else:
+    height = int(height)
+
 video_resolution[0] = width
 video_resolution[1] = height
 
