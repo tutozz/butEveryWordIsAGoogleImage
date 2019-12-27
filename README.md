@@ -39,4 +39,4 @@ You can contact also contact me by email: tutozz.contact@gmail.com
 
 # Licence
 This project is under ``` GNU General Public License v3.0 ```
-See the COPYING file
+See the LICENSE file
