@@ -41,7 +41,7 @@ here's screenshots and videos
 
 ## Authors
 
-* **Luis Parra** aka [Tutozz](https://github.com/Tutozz) 📖
+* The only one [Tutozz](https://github.com/Tutozz) 📖
 
 ## Links & Contacts
 <p align="center">
