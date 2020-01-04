@@ -2,7 +2,8 @@
 # title                 : buteverywordisagoogleimage.py
 # description           : This is just a script that automatically generate a video from a youtube music link that for each word said will download an image that correspond and put it in the video at the correct time.
 # author                : Tutozz
-# date                  : 2019/12/19
+# creation date         : 2019/10/24
+# end first version     : 2019/12/19
 # version               : 1.0
 # usage                 : python buteverywordisagoogleimage.py
 # python_version        : 3.7
