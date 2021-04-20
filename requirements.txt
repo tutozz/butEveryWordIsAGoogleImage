@@ -25,7 +25,7 @@ path.py==12.4.0
 Pillow==6.2.1
 pluggy==0.13.1
 proglog==0.1.9
-py==1.8.0
+py==1.10.0
 pyfiglet==0.8.post1
 pyparsing==2.4.5
 pytest==5.3.2
