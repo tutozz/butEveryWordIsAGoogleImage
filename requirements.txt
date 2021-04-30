@@ -40,7 +40,7 @@ selenium==3.141.0
 six==1.13.0
 termcolor==1.1.0
 tqdm==4.40.2
-urllib3==1.25.7
+urllib3==1.25.8
 wcwidth==0.1.7
 youtube-dl==2019.11.28
 youtube-transcript-api==0.1.9
