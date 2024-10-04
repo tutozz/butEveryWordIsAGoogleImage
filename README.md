@@ -39,13 +39,6 @@ here's screenshots and videos
  <a href="https://www.youtube.com/watch?v=9tX0vZpIwks"><img src="https://img.youtube.com/vi/9tX0vZpIwks/0.jpg"></a> | <a href="https://www.youtube.com/watch?v=Cse1wjbStV4"><img src="https://img.youtube.com/vi/Cse1wjbStV4/0.jpg"></a> | <a href="https://www.youtube.com/watch?v=KgGkkV06EmQ"><img src="https://img.youtube.com/vi/KgGkkV06EmQ/0.jpg"></a> |
  <a href="https://www.youtube.com/watch?v=9P-sv_0hqLA"><img src="https://img.youtube.com/vi/9P-sv_0hqLA/0.jpg"></a> | <a href="https://www.youtube.com/watch?v=q031tpoR688"><img src="https://img.youtube.com/vi/q031tpoR688/0.jpg"></a> | <a href="https://www.youtube.com/watch?v=UQdDWCUcINM"><img src="https://img.youtube.com/vi/UQdDWCUcINM/0.jpg"></a> |
 
-## Links & Contacts
-<p align="center">
-Project's Instagram account: <a href="https://www.instagram.com/buteveryword">IG Account</a>
-<br>Project's YouTube account: <a href="https://www.youtube.com/channel/UCSrBjzs_QlmxBzwqU9LeCVw">YouTube Account</a>
-<br>My personal eMail: <a href="mailto:tutozz.contact@gmail.com">tutozz.contact@gmail.com</a>
-</p>
-
 ## Licence
 <p align="center">
 This project is under<br> <a href="https://github.com/Tutozz/butEveryWordIsAGoogleImage/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Tutozz/butEveryWordIsAGoogleImage.svg"></a><br><br>
