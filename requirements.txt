@@ -17,7 +17,7 @@ mock==3.0.5
 more-itertools==8.0.2
 moviepy==1.0.1
 networkx==2.4
-numpy==1.17.4
+numpy==1.22.0
 opencv-python==4.1.2.30
 packaging==19.2
 path==13.1.0
