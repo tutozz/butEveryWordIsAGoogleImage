@@ -22,7 +22,7 @@ opencv-python==4.1.2.30
 packaging==19.2
 path==13.1.0
 path.py==12.4.0
-Pillow==6.2.1
+Pillow==9.3.0
 pluggy==0.13.1
 proglog==0.1.9
 py==1.8.0
